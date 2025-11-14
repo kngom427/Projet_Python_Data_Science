@@ -32,13 +32,13 @@ Rapport contenant :
 ---
 
 ## 🧱 Structure du projet
- ` ` `bash
+ ```bash
  Projet_Python_Data_sicience/
 │
 ├── TP_Python.ipynb # Notebook principal
 ├── Rapport_Python.pdf # Rapport lié au Projet
 └── README.md # Présentation du projet
- ` ` `
+ ```
  
 ---
 
@@ -46,7 +46,7 @@ Rapport contenant :
 
 ### 1️⃣ Cloner le projet
 ```bash
-git clone https://github.com/ton-pseudo/Projet_TP_Python.git
+git clone https://github.com/kngom427/Projet_Python_Data_Science.git
 cd Projet_TP_Python
 ```
 ### 2️⃣ Lancer le notebook avec Jupyter
